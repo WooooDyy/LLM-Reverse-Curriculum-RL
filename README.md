@@ -36,7 +36,7 @@ cd R3_others/scripts/step1_supervised_finetuning/
 bash R3_sft.sh
 ```
 
-### Step2: R$^3$ Training
+### Step2: R<sup>3</sup> Training
 
 To train a reinforced model using **R**$^3$ on GSM8K (or other math datasets), first set the actor model path (it should be a sft model checkpoint from **Step1**) and output path in `R3_math/scripts/R3_cot_gsm8k.sh`, and run the following command:
 
