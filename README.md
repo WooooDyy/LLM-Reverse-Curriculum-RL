@@ -3,6 +3,7 @@
 <h1 align="left"><strong>R</strong><sup>3</sup>: Training Large Language Models for <strong>R</strong>easoning through <strong>R</strong>everse Curriculum <strong>R</strong>einforcement Learning</h1>
 
 <space for arxiv badge>
+Implementation of the "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning".
 
 ## 💡 Introduction
 
