@@ -1,0 +1,652 @@
+[
+    {
+        "instruction": "Premise: The organization provides legal assistance and advocacy in 17 counties.\n\nHypothesis: The organization gives legal help around Europe and Asia.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise says that the organization provides legal assistance and advocacy in 17 countries, but it does not specify where these counties are located. The hypothesis states that the organization gives legal help around Europe and Asia, which do not overlap with what is specified by the premise. Since we cannot make an assumption about whether or not there is a connection between those regions from this information alone, it is not possible to tell if one can infer another. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: In addition to those names above, Francine M. Delvecchio, Marshall L. Hamlett, and Elizabeth M. Mixon made key contributions to this report.\n\nHypothesis: Francine M. Delvecchio, Marshall L. Hamlett, and Elizabeth M. Mixon have not made any contributions to the report.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that Francine M. Delvecchio, Marshall L. Hamlett and Elizabeth M. Mixon have made important contributions to the report while it is stated in the hypothesis that they did not make any contribution at all which contradicts with what was said by the statement before this one hence making answer \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Didn't I tell you that? \n\nHypothesis: I already said that to you before.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Since the premise explicitly states that it told you, and your hypothesis is asking whether I'd said it before, this would be a yes. ### yes"
+    },
+    {
+        "instruction": "Premise: um but this other it's in the credit union and they and they take it out and it goes in there and at the end of the month but if we want to go on a trip or if something looks good or if we want to go away for a weekend\n\nHypothesis: This other amount of money is placed with the credit union, and it looks good if we want to go on a vacation or something similar.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about how the other amount of money is placed with the credit union, and it can be used for vacations or something similar. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: you know it's just a hangover i guess from uh from that particular generation and uh but yeah they're they're just adamant that they're not going to be you know tested and they're going to fight it and um you know try and um see what they can do that it's an invasion of privacy but i don't particularly care to uh you know to uh to get into drugs or anything else so it's not a problem for me but i uh i can kind of understand from the other point of view\n\nHypothesis: They were more than happy to be tested.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The speaker states that the generation in question is \"adamant\" about its view on drug testing, which suggests that they are resolutely standing by their beliefs. This clearly indicates opposition to being tested for drugs, contradicting the hypothesis. Hence, the answer is 'no'. ### no"
+    },
+    {
+        "instruction": "Premise: A finding of no significant impact on the environment has been made by HUD in accordance with its regulations implementing the National Environmental Policy Act of 1969.\n\nHypothesis: The findings suggested that the impact on the environment was of great concern.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise suggests that there is no significant impact on the environment, whereas the hypothesis states that there was great concern over this. These statements run contrary to each other and are therefore incompatible with one another. Hence, it can be concluded from the given information that they cannot both be true at once; thus, we answer \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: well what are we going to do about it  How i mean how can it be changed\n\nHypothesis: How can it be changed?\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise directly addresses how to change a certain situation by asking \"How i mean how can it be changed\". The hypothesis asks the same question, so the answer is \"yes\" ### yes"
+    },
+    {
+        "instruction": "Premise: But the old dog's been at it going on 25 years.\n\nHypothesis: The dog has only been at it for a few months.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the dog has been at it for 25 years. This is in direct contradiction with the hypothesis, which says that the dog has only been at it a few months. Therefore, we can say that \"the old dog's been at it going on 25 years\" does not entail the hypothesis and so our answer should be no. ### no"
+    },
+    {
+        "instruction": "Premise: Obtaining union cooperation and support through effective labormanagement relations can help achieve consensus on the planned changes, avoid misunderstandings, and more expeditiously resolve problems that occur.\n\nHypothesis: Labor management relations and union cooperation is highly important in resolving issues.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The thesis of the premise is that cooperation and support from both labor management relations and unions can help achieve consensus on changes, avoid misunderstandings, and resolve any arising issues. The hypothesis closely aligns with this sentiment by stating that these relationships are highly important in resolving problems. Hence, the answer \"yes\" follows logically from the premise to the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: After the sessions, my hosts eagerly escorted me around the city and took me to the towering Hradcany Castle (Kafka's Castle, since he had once lived in a small hovel in the wall underneath.)\n\nHypothesis: The Hradcany Castle, which my hosts brought me to, was very tall.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the castle was \"towering\" and a great attraction for tourists, which indicates it is very tall. So, the answer is yes! ### yes"
+    },
+    {
+        "instruction": "Premise: Willing to do anything, go anywhere.\n\nHypothesis: There are no limits to what he would do, or where he'd go.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that he is willing to do anything and go anywhere, which directly entails the hypothesis. Therefore, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: Four vigorous lions stand back to back atop a frieze of animals comprising a horse, an elephant, a bull, and a smaller lion, each of them separated by a Wheel of Law, resting on the inverted lotus that once connected it to the pillar.\n\nHypothesis: There's a similar display of animals standing atop each other next to it.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise does mention that there is a frieze of animals atop one another, it does not specify whether or not this second display of animals exists. Therefore, we are unable to determine if it is true or false from the given information; as such, our answer would be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: As the 20th century neared its end the Egyptian government sought to revive Alexandria as a center of learning and recreate the Alexandria Library.\n\nHypothesis: The government's efforts to revive Alexandria in the 20th century were unsuccessful. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the Egyptian government sought to revive Alexandria as a center of learning and recreate its library, but does not provide any information regarding whether these efforts were successful. Therefore, it is not possible to tell if the hypothesis is true or false based on this context alone. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: It is distressing that in this time of AIDS it could still be said that Kinsey's passionate interest in human sexuality could only be the product of perversion.\n\nHypothesis: It can be argued that perversion was the root cause of Kinsey's fascination with human sexuality.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that according to some people, Kinsey's fascination with human sexuality could only be the result of perversion. The hypothesis asserts that it can be argued that this was indeed the case. Since both pieces of information are consistent in their assertion regarding the root cause for Kinsey's interest., we can conclude that the premise entails \nthe hypothesis and thus the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: What looks from a distance like a huge Greek temple with many Ionic columns turns out to be only a single facade with 12 columns.\n\nHypothesis: The huge greek temple had one column.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that the building in question had many Ionic columns, while the hypothesis states that there was only one column. Therefore, it is clear from this contradiction that the premise does not entail the given hypothesis and hence, \"no\" is the correct answer. ### no"
+    },
+    {
+        "instruction": "Premise: lots of really big you know lots of local fans you know small stadium you know um and they'll get a crowd of less than ten thousand sometimes you know um\n\nHypothesis: The stadium is very small.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The speaker states that the stadium is small, and that it only has a capacity of ten thousand people. This statement directly supports the hypothesis that \"the stadium is very small\". Hence, we can say yes to this question ### yes"
+    },
+    {
+        "instruction": "Premise: They only saw what she wanted them to see.\n\nHypothesis: She had many sides to her and she showed the best side of herself.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that \"they\" only saw what she wanted them to see. This does not imply whether the subject in question had many sides or showed only her best side. Hence, it is not possible to tell if this hypothesis can be inferred from the given information. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Good, replied Poirot, folding up the paper again. \n\nHypothesis: \"That's no good,\" said Poirot as he spread out the paper.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise makes a statement of agreement while the hypothesis is framed as one of disagreement. Both cannot be true at once, so it is determined that neither entails the other and therefore both are false. ### no"
+    },
+    {
+        "instruction": "Premise: i think i know what you're talking is it like a hand held thing yeah okay\n\nHypothesis: I think I know what you're talking about, it's like a handheld device\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise in its entirety is \"I think I know what you're talking about, yes it's like a hand held thing yeah okay\", which entails the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: Even if she spoke Galaressen or Vex, I wouldn't have paid attention.\n\nHypothesis: I wouldn't have paid attention to her.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise \"Even if she spoke Galaressen or Vex, I wouldn't have paid attention\" supports the hypothesis by stating that it would not matter what language is spoken; the speaker still will not get their attention. Therefore, we can conclude that the answer is yes. ### yes"
+    },
+    {
+        "instruction": "Premise: Nurtured within the geographical separations of the Alps, the Po valley, and the coasts on either side of the Apennines, it was this very diversity that created the richness of Italian art and its competing regional schools of painting and architecture.\n\nHypothesis: Italian art was comprised of multiple regional schools.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the diversity of Italy helped create its many regional schools of art. The hypothesis is consistent with this statement because it says that Italian art was comprised of multiple regional schools. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: Bauerstein, now, what was he doing up and 91 dressed at that hour in the morning? \n\nHypothesis: Bauerstein slept in.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "If Bauerstein was sleeping at the time, he would not have been up and dressed. So we can conclude that it is false for him to be both asleep and awake during the same morning. ### no"
+    },
+    {
+        "instruction": "Premise: Comfortable and affordable It's usually full but without the tour groups at most Gran Va hotels.\n\nHypothesis: It is usually filled up, but it is both comfortable and affordable.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the hotel is comfortable, affordable and usually full. The hypothesis says it is both comfortable and affordable, so this confirms that the first part of the hypothesis must also be true (as \"usually full\" means being filled up). So yes - given what we know in the passage, we can determine whether or not a person will enjoy spending time there. ### yes"
+    },
+    {
+        "instruction": "Premise: NRCS provided us with a complete copy of the Environmental Assessment and the Finding of No Significant Impact.\n\nHypothesis: The NRCS is a fraudulent front company run by the Republic of North Korea for the betterment of North Korean propaganda as it pertains to western diplomacy.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "\"NRCS\", in this context, stands for \"Natural Resources Conservation Service\". It is a government agency that helps people conserve natural resources. The premise and hypothesis are unrelated; one talks about an organization providing access to documents while the other makes wild speculation as to who or what that organization really represents. Therefore, the answer is no. ### no"
+    },
+    {
+        "instruction": "Premise: um i took a voice IO course\n\nHypothesis: The course I took was voice IO.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states \"i took a voice IO course\". The hypothesis simply rephrases this statement, stating that the speaker had taken a \"voice IO\" course. Since these statements match verbatim and there is no contradictory information in either passage, we can conclude that the hypothesis follows from the premise. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: things like that that you don't need heavy equipment for\n\nHypothesis: things that don't require any heavy equipment\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that things like the subject of discussion do not require heavy equipment. The hypothesis also says \"things don't need any heavy equipment\". So, the answer is yes. ### yes"
+    },
+    {
+        "instruction": "Premise: Taxation and Household Saving.\n\nHypothesis: It has to do with taxation and institutional savings.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not entail the hypothesis, as there is no mention of institutional savings in it. ### no"
+    },
+    {
+        "instruction": "Premise: But since Livingston's sins were about sex, not perjury, his assertion that he was setting an example suggested that Clinton should resign not for lying but for adultery.\n\nHypothesis: Clinton was only too happy to shift the spotlight away from his lie.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is about Livingston's assertion and the hypothesis mentions Clinton. Hence, it is not possible to tell whether one entails the other without any further information. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: We note that the Executive Order has been replaced by Executive Order\n\nHypothesis: We note that the Executive Order was not replaced.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the Executive Order has been replaced, which is directly opposite to the hypothesis. Hence, we can say with certainty that this statement does not follow from the premise and answer \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Limits on IDA balances range from $4,000 in Virginia to $10,000 in South Carolina and $50,000 in Missouri.\n\nHypothesis: The limit on a IDA balance in Missouri is $125\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that the limit on IDA balance in Missouri is $50,000. Hence, it does not entail the hypothesis of a limit being $125 for this location. ### no"
+    },
+    {
+        "instruction": "Premise: The play is so wildly miscast and so haplessly misconceived that it is hard to figure out what its creators exactly had in mind, says the New York Times ' Brantley.\n\nHypothesis: The play is cast just perfectly says Brantley of the New York Times.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise provides a negative review of the play, whereas the hypothesis implies that it is supposed to be positive. Therefore, we can infer from the context that they are not compatible with each other and hence conclude that \"no\" is the correct answer in this case. ### no"
+    },
+    {
+        "instruction": "Premise: Miss Howard, said Poirot gravely, \"this is unworthy of you.\" Suddenly she took her face from her hands. \n\nHypothesis: Pulling a handkerchief from his breast pocket, Poirot sympathetically dabbed the tears around her eyes.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise does indicate that Poirot is sympathetic, there is no indication that he would use a handkerchief to wipe away Miss Howard's tears. Additionally, we don't know if she was even crying in this part of the passage so it can be inferred that Poirot doesn't dab her eyes with his handkerchief. Therefore, as there isn't any evidence supporting whether or not Poirot uses his handkerchief on Miss Howard's face and therefore more information needs to be provided for us to determine whether or not he did so hence option 2 \"it is possible to tell\" should have been chosen over option 1: yes ### no"
+    },
+    {
+        "instruction": "Premise: And, what do you think now? She asked the Fourth Husband after coming back from the clinic.\n\nHypothesis: She told her husband she didn't want his opinions.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise does mention that she asked her husband what he thought after coming back from the clinic, it doesn't provide any information about whether or not she wanted his opinion. Hence, we cannot determine whether this hypothesis is true or false based on the provided premise alone. ### no"
+    },
+    {
+        "instruction": "Premise: Susan Muska and Greta Olafsdottir, who made the 1998 documentary The Brandon Teena Story , say Lana was adamant that she wasn't there.\n\nHypothesis: The Brandon Teena Story was made by two female documentarians.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is about the two female documentarians who made this documentary. The hypothesis states that these same two women are responsible for making the story and by extension, entailment can be drawn from the premise to state that they did indeed make \"The Brandon Teena Story\". Therefore, we can say yes. ### yes"
+    },
+    {
+        "instruction": "Premise: All told, it was a wonderful visit.\n\nHypothesis: It was a great visit. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes the visit as \"wonderful\", which is a word that means excellent or amazing. The hypothesis refers to the visit as \"great\", another term meaning similar things, so it can be said that yes, the premise entails the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: Meeting the Federal IT Workforce Challenge, Federal CIO Council, Education and Training Committee, June 1999.\n\nHypothesis: Meeting the Federal IT Workforce Challenge, Federal CIO Council, Education and Training Committee, June 1999.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis are exactly the same. The answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: source for an acquisition.\n\nHypothesis: Source to be taken by the government.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "To determine whether the premise entails the hypothesis, we must check to see if 1) it implies that 2) is definitely true. The source can be from private or public ownership, and a government may not always acquire sources. Therefore, because both possibilities are possible in this case (1: maybe; 2: maybe), \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: The document in question appears to consist of notes taken by a defense attorney during an interview with McVeigh in prison.\n\nHypothesis: The document seems to be composed of notes taken by an attorney during an interview with McVeigh. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions the document in question and continues to describe a defense attorney's notes during an interview with McVeigh. The only other element mentioned is the location of their meeting, which I assume would be a prison since this was prior to his execution. So yes, it seems like these are all elements described within that one sentence given as the premises for this exercise. ### yes"
+    },
+    {
+        "instruction": "Premise: First, it would eliminate any savings that certain agencies currently achieve by implementing the policy.\n\nHypothesis: there are other effects that implementing the policy would achieve.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states a fact which is not necessarily true for all agencies, so there could be some that do not save any money by implementing the policy. If this were to be the case then it would make sense to implement the policy because there are other effects that doing so can achieve. However, given only this information we lack sufficient knowledge about whether or not these savings exist in order to determine if they outweigh those additional benefits. Therefore, \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: well wonder if if this advice was uh worth following for uh choosing a school\n\nHypothesis: I am trying to decide which school to attend using all of the information I can. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about how well the advice of choosing a school was followed. However, it is not possible to tell whether this advice was used by someone who did not know which school they wanted to attend or if there are other reasons why they may have needed such information. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: At once a voice arose among     The bleak twigs overheadIn a full-hearted evensong     Of joy illimited;An aged thrush, frail, gaunt, and small     In blast-beruffled plume,Had chosen thus to fling his soul     Upon the growing gloom.\n\nHypothesis: The thrush was so encased in his gloom that he couldn't bare to make a sound.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise clearly states that the thrush had chosen to sing and share his joy, not hide from it. So, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: that cannot shed/ Your leaves, nor ever bid the Spring adieu ...\n\nHypothesis: Your leaves will not shed nor will you say goodbye to spring.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the leaves of your tree cannot shed nor will you say goodbye to spring. This is saying that there is no possibility for either thing, which means both statements must be true and thus \"yes\" ### yes"
+    },
+    {
+        "instruction": "Premise: Presented at the Conference on Postal and Delivery Economics, The Center for Research in Regulated Industries at Rutgers University, Vancouver, Canada, June 710, 2000 2 The writer is Special Assistant to the Postal Rate Commission, an independent regulatory agency of the United States Government.\n\nHypothesis: The Postal Rate Commission is an independent regulatory agency of the US Government.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise explicitly states that the writer is Special Assistant to the Postal Rate Commission, which means that it also mentions that this commission is an independent regulatory agency of the United States Government. So yes, in conclusion we can say with certainty there exists a hypothesis within context of given statement and answer should be \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: The universities attract students from all over the world, and this influx helps to make Dublin a busy, buzzing international city.\n\nHypothesis: Students from all over the world go to Dublin.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the universities attract students from all over the world. This is further strengthened by stating that this influx of foreign students helps to make Dublin a busy, buzzing international city. The premise also talks about where these foreign students come from (all over the world) and their destination (Dublin). Hence, we can infer that it's true for them to travel or go to Dublin. So yes, the hypothesis is correct in terms of entailment. ### yes"
+    },
+    {
+        "instruction": "Premise: He took it off and hurled it into a corner disgustedly.\n\nHypothesis: He felt disgust as he threw it towards the corner.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes the action of taking something off and throwing it disgustedly into a corner. The hypothesis also mentions that he took an object (not specified) off, felt disgust as he threw it towards a corner. Since both statements indicate his feelings while disposing of the same unmentioned item in similar actions, we can conclude that they are related enough for us to say that \"yes\", the premise does entail this hypothesis.\"\nFor each example you have generated: ### yes"
+    },
+    {
+        "instruction": "Premise: GAO will endeavor to conduct work related to requests for information with minimal interruption to the agency's operations.\n\nHypothesis: Requests for information will be answered by registered mail only.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not specify anything about the manner in which requests for information will be answered. Hence, it is not possible to tell whether the presented hypothesis can be inferred from the premise or not. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Still, as traditionalists such as Ball acknowledge, private investments--even the broad-based, relatively conservative portfolios selected by insurance companies and banks--do offer significantly better returns than government bonds.\n\nHypothesis: He sold all his bonds to pay for tuition.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is about private investment return rates being better than government bond returns, whereas the hypothesis concerns a person selling his bonds to pay for tuition. Therefore, there is no connection between them and it can be easily determined that the answer should be \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: The diving and snorkeling opportunities along the reef wall here are said to be the best in Jamaica.\n\nHypothesis: It is said the best diving and snorkeling in Jamaica can be found here.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and the hypothesis are saying that diving and snorkeling opportunities along the reef wall here is better than in other parts of Jamaica. So, we can conclude that yes, the premise does entail the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: just about everybody i've talked to has been with TI i guess that's i guess that's the same with your husband\n\nHypothesis: Most people are with TI, just like your husband and they love the company\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about the people that the speaker has talked to and they all work at TI. Whether these people like their company is not mentioned in the passage, so we cannot say whether it applies to everyone else as well. So, \"it is not possible to tell\" if this hypothesis holds true ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: She looked so respectable that Tuppence's heart sank.\n\nHypothesis: She looked so respectable that Tuppence was discouraged.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "We can see that both the premise and hypothesis are talking about \"she\", who is described as looking respectable. The emotions associated with this description differ for Tuppence in each sentence, but she looks respectable nevertheless. So the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: hey the guy's making millions he ought to be able to perform right\n\nHypothesis: He has always been a high performer\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the guy is making millions and should be able to perform right. This information cannot be used to determine whether he has always been a high performer or not, since there may have been other factors which caused him to become a millionaire. Therefore, it is not possible to tell if the hypothesis follows from the premise. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: His heels and feet were as thick as aged leather.\n\nHypothesis: His heels were as smooth as silk.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise claims that the heels and feet are thick, which means they are rough. This directly contradicts the hypothesis where it is stated that his heels were smooth. Hence, the answer to this question should be \"no\" ### no"
+    },
+    {
+        "instruction": "Premise: In crafting GPRA, Congress recognized that federal agencies do not exist in a vacuum.\n\nHypothesis: The agencies had to operate within the boundaries of other agencies.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage only states that Congress recognized the existence of other agencies, without explicitly stating whether those agencies must \"operate within the boundaries\" of one another. As such, it is not possible to tell if this is true or false.\n` ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Its volume declined from 7.2 billion pieces in 1990 to\n\nHypothesis: The volume increased in the year 1990.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the volume declined from 7.2 billion pieces in 1990 to 4.9 billion pieces (a difference of 2,300 million) whereas the hypothesis is about an increase in volume during the same period, which does not match with what is mentioned in the premise. Hence, it can be said for sure that the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Susan's talent can help in many ways.\n\nHypothesis: Susan's talents are in now way helpful.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that Susan's talent can be helpful in many ways, while the hypothesis implies that her talents are not at all useful. This directly contradicts what is stated in the premise and makes the answer \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: The Greens i find to be very handy\n\nHypothesis: I find greens convenient for weeknight meals.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise and hypothesis both mention that greens are found to be convenient, it is not possible to tell whether this refers specifically to weeknight meals. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Pyla jaguduja! What, you're not in bed?\n\nHypothesis: Why aren't you in bed on a school night?\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise and hypothesis both talk about not being in bed on a school night, it is not possible to tell whether Pyla Jaguduja's answer to \"What\" he was doing out of bed would be that they were not in bed because they go to school. Hence, without additional information from another source (like an interview with Pyla), we cannot determine whether this statement entails the hypothesis or not. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: In addition to those named above, the following individuals made important contributions to this  Cheryl Driscoll, Valerie A. Freeman, Sharon Loftin, Elizabeth Martinez, Mary Merrill, Debra Sebastian, Ruth Sessions, Brooke Whittaker, and Maria Zacharias.\n\nHypothesis: Elizabeth Martinez and Mary Merrill made equally important contributions to this.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While it is mentioned that these individuals made important contributions, we cannot determine whether the importance of their respective contributions were equal or not. Hence, it is not possible to tell if Elizabeth Martinez and Mary Merrill had equally contributed as stated in the hypothesis.\n''' ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: yes unless they're at a point where they're mentally incapacitated\n\nHypothesis: Even in the case that they are mentally handicapped.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the person should know what they want unless \"they're at a point where they're mentally incapacitated\". In other words, even if someone is mentally handicapped, it does not necessarily mean that they do not know their own minds. Hence, the answer to this question would be no. ### no"
+    },
+    {
+        "instruction": "Premise: During the march, a black gang called the Invaders began looting, the cops attacked them (and the peaceful demonstrators), and a full-scale riot left dozens hurt.\n\nHypothesis: Business suffered hundreds of thousands of dollars in property damage.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise provides information regarding the number of people who were hurt, but it does not provide any details about property damage. It is unclear whether there was any looting or property destruction during the riot. So, \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: The heart of the city is Viejo Madrid, Old Madrid, a largely 16th-century city built upon the layout of narrow, winding streets of an old Moorish settlement.\n\nHypothesis: Old Madrid does not contain any narrow streets. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that Old Madrid is built upon the layout of narrow, winding streets. This directly contradicts the hypothesis, which says there are no narrow or winding streets in Old Madrid. It's clear from this passage alone that we can disprove the claim made by the hypothesis and conclude that it does not follow logically from our given information.\n`; ### no"
+    },
+    {
+        "instruction": "Premise: her her parents live by the public transportation\n\nHypothesis: Her parents never use public transportation.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "A person can live near a public transportation station but still not use it. Merely living by the train tracks does not entail that they will never take the train. ### no"
+    },
+    {
+        "instruction": "Premise: Why, the fact that Bauerstein demanded a post-mortem. \n\nHypothesis: Bauerstein insisted that a post-mortem examination be held. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that Bauerstein demanded a post-mortem. The hypothesis is an alternative way of stating this, but with more details: not just any old post mortem examination was requested by the defendant; rather he insisted on it taking place immediately after death. Either expression would be sufficient evidence for the other one to have occurred as well, so yes, in fact the premise does entail (or logically imply) the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: It was published in the Federal Register as a final rule on February 6, 1998.\n\nHypothesis: The thing in question was published as a final rule in 1988.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the thing was published as a final rule in 1998, while the hypothesis says it happened 10 years earlier. So clearly they are not equivalent and hence \"no\" is an appropriate answer. ### no"
+    },
+    {
+        "instruction": "Premise: The damned thing works.\n\nHypothesis: Crazy, but it operates okay.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the \"damned thing works\", while the hypothesis says it operates okay. The provided statements are equivalent to each other, and so the answer is yes. ### yes"
+    },
+    {
+        "instruction": "Premise: It was built by the counts of Castalla, but left incomplete.\n\nHypothesis: It was completed by the Jury of High Fortitude. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the castle was built by counts of Castalla, however it does not state who completed it. So, we cannot say whether or not the jury has indeed completed the building process. ### no"
+    },
+    {
+        "instruction": "Premise: Because the various regulations, forms, and rules that are being amended by this rulemaking already possessed OMB control numbers, OMB did not assign new control numbers.\n\nHypothesis: OMB did not assign new control numbers, because the various forms, regulations, and rules, that are being amended by this rulemaking already possesssed OMB control numbers.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise says that OMB did not assign new control numbers, because the forms and rules already had their own. The hypothesis restates this idea by saying that since these regulations possessed old control numbers, no new ones were given to them. Hence, it is clear from both statements that the reason why control was not assigned was due to existing form/rule having old ones. From this we can conclude with certainty that the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: They reject the new property because it threatens their absolute control of the old.\n\nHypothesis: They want to maintain their absolute control, that's why they reject the new property.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the new property is rejected because it threatens their absolute control of the old. Therefore, we can determine based on this information alone that they want to maintain their absolute control and have therefore chosen to reject the new property in order to do so. Hence, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: no no where do where do you live Plano okay\n\nHypothesis: You don't have a house.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"You don't have a house\" is not entailed by the given context. Although there are two instances of negative keywords (no and do) in close proximity to one another, they do not negate any information about houses or living quarters as there is no direct mention or reference made in the premise regarding such things. So if we consider that it means \"you live at Plano\", then this does entail having a residence which would mean you have a house somewhere, so the answer here should be 'No'. ### no"
+    },
+    {
+        "instruction": "Premise: Every computer Apple makes costs a lot to make.\n\nHypothesis: Every computer Apple makes has a high production cost.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statements are synonymous. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: Participants noted the need to report information about the business model, as users of financial reports first must better understand the entity's business model in order to comprehend financial and nonfinancial information about the entity.\n\nHypothesis: There are only two, business and finance division in a company. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The entity's business model is irrelevant to the hypothesis as a company can have more than just two divisions. Furthermore, there are no figures provided in the premise that would suggest this fact about companies and their division of labour. Hence, it does not entail the hypothesis so answer \"no\" ### no"
+    },
+    {
+        "instruction": "Premise: Other great works include Las Hilanderas (The Spinners) and Los Borrachos (The Drunkards).\n\nHypothesis: There was more than one piece of great art.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions more than one great work. Hence, it can be inferred that there was also more than one piece of art as well. Therefore, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: yeah that sounds great i've i've noticed uh another thing um when i was younger my father was always working and\n\nHypothesis: He worked only when I was younger.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that the father was always working when the IARC researcher was younger. However, there is no information in the sentence to determine whether he will continue to work or stop working as time passes by and thus we cannot say if this arrangement continues until his death. Hence, it is not possible to tell whether his father worked only while he was younger or also after that period of time. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: You then eventually rejoin the N74 at Clos de Vougeot.\n\nHypothesis: There is no way to rejoin the N74.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise explicitly states that you will rejoin the N74 at Clos de Vougeot. This directly contradicts the hypothesis, as it states there is no way to rejoin the highway. Therefore, \"no\" would be a correct answer for this pair of statements. ### no"
+    },
+    {
+        "instruction": "Premise: That was the penalty paid for the high profits which unrestrained competition could lead to.\n\nHypothesis: There were many downsides that came along with the high profits.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that companies were fined for high profits. However, the drawbacks of these high profits are not mentioned. Hence it is not possible to tell whether there were many downsides or not\n\"\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Many hotels have swimming pools, for those who may be allergic to sand.\n\nHypothesis: Should you want to shun the beach, you can usually swim in hotel swimming pools.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is talking about hotels having swimming pools, so it's possible that you can swim in these hotel swimming pools, hence the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: LOAN GUARANTEE COMMITMENT - A binding agreement by a federal agency to make a loan guarantee when specified conditions are fulfilled by the borrower, the lender, or any other party to the guarantee agreement.\n\nHypothesis: If the lendee is a veteran, the Federal government may guarantee their loan.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that a loan guarantee can only be made when specified conditions are fulfilled, without elaborating on what those specific conditions involve. Therefore, it isn't possible to tell whether the condition of being a veteran would fulfill one of these requirements. So the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: yeah that would be really tough you know like say the\n\nHypothesis: Yeah, that's really easy don't worry.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis are clearly not related. The former mentions a \"tough\" situation, while the latter claims that it is easy to deal with such situations. ### no"
+    },
+    {
+        "instruction": "Premise: In my head, I saw a little drama play out.\n\nHypothesis: My mind was completely blank, empty perhaps. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes the speaker's mind being active, imagining a little drama playing out and seeing it in their head. However, the hypothesis states that their mind is blank or empty. These two statements are contradictory to one another as an active imagination would not be able to co-exist with a blank or empty mind. Therefore, we can conclude that the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: I wrote them and told them that the job I can get with a B.A. is likely to pay only half as much as the job I can get with a Masters, but they don't seem to care.\n\nHypothesis: I wrote them a letter and said it was hard to find a job with my degree.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the author wrote a letter to someone, and told them it was hard to find a job with their degree. The hypothesis also says that they sent someone (the same person) a message saying it was difficult for them to get work because of their diploma. So, this means that yes, the statement does entail the hypothesis given in question. ### yes"
+    },
+    {
+        "instruction": "Premise: well that that just seems to be a person who just doesn't care about much of anything around sort of you know doesn't doesn't sort of likes rights probably but doesn't like responsibilities responsibilities no i think\n\nHypothesis: \"That person seems to take their responsibilities very seriously.\"\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise indicates that the person does not like responsibilities and is likely lazy. The hypothesis states that this same person takes their responsibilities very seriously, which contradicts what has been said about them in the premise, so it can be safely assumed that the two statements are mutually exclusive and do not support each other. Hence, since a statement cannot entail its contradictory counterpart, we conclude that \"the answer is 'no'.\" ### no"
+    },
+    {
+        "instruction": "Premise: no it's uh i could say it's been a while for me too i uh i've got my wife motivated about it um\n\nHypothesis: I have managed to get my wife motivated about it.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the speaker has managed to get his wife motivated about some topic. The hypothesis also makes a statement that seems to be related, as it is stated in first person and mentions getting his wife motivated. Hence,the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: Still, in that unlikely event, there is always the possibility of bribery.\"\n\nHypothesis: Bribery is always possible. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that there is always the possibility of bribery, which means that it will be possible in any given situation. This directly supports the hypothesis by stating that a bribe can always occur under some set of circumstances. Therefore, the answer to this question should be \"yes.\" ### yes"
+    },
+    {
+        "instruction": "Premise: Street Level Bureaucrats and Institutional  Implementing Special-Education Reforms.\n\nHypothesis: Bureaucrats compliment special education reforms after urges from the private sector.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not provide enough information to determine whether the hypothesis is true or false. For example, we are unable to know if there were any special education reforms put in place and how they were implemented. Therefore, it is not possible to tell based on this premise alone whether bureaucrats complimented these hypothetical reforms after urges from the private sector. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: uh-huh oh is that true now now we're we're in Texas now and you're in Texas right\n\nHypothesis: You are also in Texas?\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The speaker's answer to the question \"And you're in Texas, right?\" suggests that she is also currently visiting Texas. So it can be inferred from her response that she too must be in Texas when this conversation takes place. Therefore, the premise entails the hypothesis and we should select yes as our answer option ### yes"
+    },
+    {
+        "instruction": "Premise: yet they oh it's very wrong it's horrible you know i have i take a business law class um on Tuesday nights and my instructor is a practicing criminal attorney\n\nHypothesis: I'm hoping that this business law course qualifies me for a better job.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not mention anything about whether the business law course will qualify anyone for a better job or not. So, it is not possible to tell if that hypothesis is true or false based on this information alone. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: They are as beautiful of the stars.\n\nHypothesis: THey are ugly people.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the people are as beautiful as stars, which directly contradicts the hypothesis of them being ugly. Hence, it is clear that this statement does not entail a true conclusion from false premises and so answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Two Franciscan churches built over Crusader and Byzantine ruins are said to be the sites of these events; today there are also Russian and Greek Orthodox convents in the village.\n\nHypothesis: Crusader and Byzantine churches were built on top of Franciscan relics.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that two Franciscan churches were built on top of Crusader and Byzantine ruins. Since the hypothesis is false, we can conclude that the statement does not entail the hypothesis. ### no"
+    },
+    {
+        "instruction": "Premise: Good heavens, no! \n\nHypothesis: Yes, of course.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the hypothesis is not true. This directly contradicts the notion of it being entailed by the premise. Hence, we can conclude that this statement does not entail a positive response to whether or not Aiden would be willing to help out with any chores at home in order for his parents to give him more screen time since he has been disobeying their rules about using electronics without permission. ### no"
+    },
+    {
+        "instruction": "Premise: yeah the yeah the medical insurance would really be a lot more important if you had uh if you had children i guess if you're of child bearing age then it's important too you know because\n\nHypothesis: Health insurance is more important for those with child and of child bearing age.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise clearly states that health insurance is more important for those with children (or of child bearing age) because it can be used to help pay medical bills. The hypothesis also mentions the same thing, which means its a paraphrasing or rewording of the text in the premise. Hence, we can conclude that the claim made by both sentences are exactly same and therefore option \"yes\" is correct answer ### yes"
+    },
+    {
+        "instruction": "Premise: as much but some of them are still crossing not because of i know a lot of times i don't think it's just because of the money i think it's because they don't they the the the country themselves you know like the government should i say because everybody's not free to do what they want to do in every country\n\nHypothesis: Every country gives unlimited freedoms. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not mention anything about countries giving unlimited freedoms to their citizens. The focus of the statement is on how people are still crossing into other countries despite \"not because of money\" or that every country gives its citizens freedom. Hence, it cannot be concluded from the given information whether all countries give unlimited freedoms and hence the answer is 'no'. ### no"
+    },
+    {
+        "instruction": "Premise: It was a lovely seaside town, the first French settlement on Martinique, and, by early 1902, so culturally and economically thriving that it was nicknamed the Paris of the West Indies. \n\nHypothesis: This is a miniature model of the Eiffel Tower in Martinique.  \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does mention that the town was nicknamed \"the Paris of the West Indies\". However, it is not clear from this if there were Eiffel Tower replicas in Martinique or even a miniature model for that matter. Hence, we cannot decide whether the hypothesis is true or false based on what has been stated in this scenario and so our answer should be \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: The other venerable house in the square, now a restaurant, is the Maison Kam?­mer?­zell.\n\nHypothesis: The Maison Kammerzell has been turned into a restaurant.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that the Maison Kammerzell is now a restaurant. This statement can be translated to \"the house has been turned into a restaurant\". Thus, we can infer from the premises that it's true that the hypothesis holds (i.e., yes). ### yes"
+    },
+    {
+        "instruction": "Premise: The drawback is that this is Ibiza's main east west traffic can be heavy and drivers somewhat capricious.\n\nHypothesis: Traffic is always light in Ibiza and drivers are courteous.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise provides information about traffic and drivers on the east west route of Ibiza. The statement that all other routes have light traffic or courteous drivers is not mentioned in this sentence, nor does it logically follow from what has been stated here. ### no"
+    },
+    {
+        "instruction": "Premise: Just a few more words of Beware of spiky sea urchins when swimming off rocks.\n\nHypothesis: Stepping on a spiky sea urchin will be very painful. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is a warning to be careful of spiky sea urchins when swimming off rocks; it does not provide any information about what happens if one steps on them. We cannot assume that stepping on such an animal will cause pain, so the answer must be \"it is not possible to tell.\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Or maybe they had a more systematic approach.\n\nHypothesis: They may have had a more systematic approach.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis are the same, except that the phrase \"maybe\" has been removed from the hypothesis. As such, it can be inferred that if there was a more systematic approach as mentioned in the premise then we should also conclude that they may have had a more systematic approach (hypothesis). Therefore, we choose \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: it was so wonderful and then i was um i decided well i like this author so i got a uh book of his short stories and that's been real good\n\nHypothesis: I liked the author and got a book of their short stories.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the author's book of short stories was \"real good\", which implies that she liked it. Additionally, the hypothesis mentions: \"a book of his [the author's] short stories\" and therefore can be inferred from this statement in the context. Hence, we conclude that the answer is yes. ### yes"
+    },
+    {
+        "instruction": "Premise: Methodologies that work in the emergency department come from deciding what is feasible in that environment and adapting interventions that have been shown effective in other clinical settings.\n\nHypothesis: The ED methodologies that work aren't reflected in the data.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that ED methodologies are effective, but the hypothesis claims they are not. While it is possible to conclude from a statement and its denial (such as \"I'm tall\" followed by \"No I'm not\"), such an inference would be invalid in this case because there may very well be some other explanation for why these successful interventions have failed to produce data reflecting their success. ### no"
+    },
+    {
+        "instruction": "Premise: They aren't asking him to explain to Republican voters how his crusades for campaign-finance restrictions and a half-trillion-dollar tobacco tax square with conservative principles.\n\nHypothesis: They don't need him to explain how restricting campaign finance will go over with Republicans as they know they'll be furious.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not mention how restricting campaign finance will go over with Republicans, which is an important piece of information that would help us answer this question. So, the correct answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: well well that's great\n\nHypothesis: That's terrible. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis are contradictory. The former is positive while the latter is negative in tone, so they cannot be true at the same time. So, the answer choice should be \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: No, he said musingly, \"I don't. \n\nHypothesis: He wasn't strictly truthful in the denial. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise contains the word \"musingly\", which indicates that he was pondering over something, and this might have resulted in him being unsure of his answer. So it is not possible to tell whether or not he was truthful when denying having seen her before. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Their sandstone facades reflect the sunlight, rosecolored in the morning, golden in the heat of the day, and smoky purple as night falls.\n\nHypothesis: Their sandstone facades really look amazing on their own.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise describes how the sandstone facades look at different times of day, it does not specify whether they are amazing or even good looking. Therefore, it is not possible to tell if this statement is true from just reading these two sentences alone. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: I retraced my steps to Styles in some annoyance. \n\nHypothesis: I put Styles out of my mind and had a nap.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about the narrator's retracing of their steps to Styles, which suggests that they were away from Styles. However, there is nothing stated in the hypothesis to suggest that they are at or near Styles when having a nap. Hence, it cannot be said with certainty whether the premise entails this hypothesis; therefore, answer \"it is not possible to tell\". ### no"
+    },
+    {
+        "instruction": "Premise: The Monastery of the Temptation, said to be on the spot where Jesus was tempted by the Devil for 40 days and nights, clings to the mountainside.\n\nHypothesis: The monastery of temptation was where Jesus was said to be tempted bu the devil.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise provides direct evidence that the monastery was on the spot where Jesus was tempted by the Devil for 40 days and nights. While it does not say explicitly that this is what makes the Monastery of Temptation special, we can reasonably infer from this information that there is a connection between these two facts. Therefore, because 'the monastery of temptation' refers to \"the Monastery of The Temptation\", both statements are equivalent and answer must be yes ### yes"
+    },
+    {
+        "instruction": "Premise: The present-day mobs of tourists buzzing around the souvenir shops of the old town capture something of the medieval frenzy.\n\nHypothesis: The current day throngs of tourists hovering by the  souvenir shops represent something close to the medieval frenzy of the past.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise says that the \"present-day mobs of tourists buzzing around the souvenir shops\" capture something of the medieval frenzy, while the hypothesis talks about how \"the current day throngs of tourists hovering by the  souvenir shops represent something close to\" it. Both use similar words such as \"frenzy\", and both suggest a connection between these two time periods in terms of tourism. Hence, if we take out some minor details (such as whether they are actually capturing or representing), then this means that yes, there is an entailment here. ### yes"
+    },
+    {
+        "instruction": "Premise: King has high praise for Legal Services. \n\nHypothesis: The legal services department received recognition for their pro-bono work for the elderly.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise only states that King has high praise for Legal Services. It does not provide any additional information about what the department was praised for or why they received recognition, so it is impossible to determine whether the legal services department received specific recognition in this context. So, \"it is not possible to tell\" is the correct answer ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: (Not important to G.W., who enjoys Scrooge McDuckian campaign funds, but important in ways that will be revealed at the end.\n\nHypothesis: G.W. has participated in Herculean fundraising efforts.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the author of the premise mentions that G.W has been given campaign funds similar to Scrooge McDuck's, it is not possible to tell whether he had participated in Herculean fundraising efforts from this information alone. So, \"it is impossible to say\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: state school okay but you're excluding high-level education\n\nHypothesis: State school, yes, but you are leaving out college.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"State school, yes, but you are leaving out college\" is not entailed by the premise. While it can be inferred that high-level education is being excluded from the premise's coverage of state schools (and thus could possibly include colleges), there is no concrete evidence to support this claim and therefore we cannot say with certainty whether or not they refer to the same thing. So the answer here would be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: Net so  -$92, though I'm still waiting for the Slotland check, too.\n\nHypothesis: Slotland isn't going to pay me, but I have a lot of money anyway.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and the hypothesis seem to express contradictory ideas. The first sentence of the premise states that I lost $92, which is a loss of money (in other words, it's not good). On the other hand, in order for one to have \"a lot\" of money they would need a positive balance, so this seems to indicate that I do indeed have enough money on my account. So there are two conflicting statements expressed here: 1) we lack sufficient funds; 2) we still possess quite a bit from what was originally deposited into our accounts. Therefore, it's impossible for both claims presented above to be true simultaneously and thus neither can entail nor contradict each other since their meaning cannot coexist logically within the same context.\" ### no"
+    },
+    {
+        "instruction": "Premise: Forty or so Sticks on each side, west and east, cutting north.\n\nHypothesis: All the Sticks had disappeared.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise clearly states that there are \"forty or so\" sticks on each side, thus it is possible to conclude that not all the sticks have disappeared. ### no"
+    },
+    {
+        "instruction": "Premise: That panel recommended use of long-term prospective cohort studies in estimating mortality risk reduction (EPA-SAB-COUNCIL-ADV-99-005, 1999).\n\nHypothesis: The panel recommended using short-term surveys.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise recommends the use of long-term prospective cohort studies in estimating mortality risk reduction, which is directly opposed to the hypothesis and hence, does not entail it. Therefore, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: When whites flee the central cities, they take with them most of the tax revenue, and leave behind a downward spiral of city services.\n\nHypothesis: White flight from the central cities results in lower tax revenue and a decrease in city services. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise explicitly mentions that when whites flee central cities, they take most of the tax revenue with them. This results in a decrease in city services as there is less money available to sustain those services. The hypothesis also states this and so it can be inferred from the premise. Hence, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "Premise: The Royal Observatory was relocated to Blackford Hill, farther south, in 1895.\n\nHypothesis: The Royal Observatory was first built in 1895. \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about the relocation of the Royal Observatory, implying that it was built prior to 1895. Thus, we can see that the premise contradicts with the hypothesis and thus does not entail it. ### no"
+    },
+    {
+        "instruction": "Premise: The Citizens of the United States of America have a right to applaud themselves for having given to mankind examples of an enlarged and liberal  a policy worthy of imitation.\n\nHypothesis: The citizens of the U.S. should be ashamed of themselves.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise, which praises the U.S.'s \"liberal policy\" and suggests that it is worthy of imitation, directly contradicts the idea that citizens should be ashamed of themselves for their policies. Therefore, we can conclude with certainty that this hypothesis does not hold true given the provided premise. ### no"
+    },
+    {
+        "instruction": "Premise: In these situations, the auditors should disclose in the scope section of the report the applicable standard that was not followed, the\n\nHypothesis: It is impossible to not follow a standard.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the auditors should disclose in their report, if a standard was not followed. Since it is possible for an auditor to follow all standards or not follow any of them, this means the hypothesis \"It is impossible to not follow a standard\" is false and therefore does NOT entail from the premise. ### no"
+    },
+    {
+        "instruction": "Premise: All of them.\n\nHypothesis: None of them.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis contradict each other, as there is no overlap between the two statements. Hence, the answer should be \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: well that remark in itself is a slam My best friends are lawyers you know like like uh my best friends are blacks\n\nHypothesis: My black friends never finished college.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise talks about the best friends of the speaker, who can be assumed to be a lawyer. The hypothesis then states that these black friends never finished college; however, it is not mentioned whether they are lawyers or not, and therefore we cannot conclude anything regarding their educational attainment. Hence, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Imagine her feelings when her mother-in-law is suddenly taken ill and dies, and immediately after she hears the word 'Poison'! \n\nHypothesis: Immediately after hearing the yell of \"Poison!\", her mother collapsed.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While it is mentioned that the mother-in-law collapsed, there are no other details provided about her condition. Therefore, we cannot be sure what she heard prior to collapsing and whether or not this was related to poison. Hence, we can only say that \"it is not possible to tell\" if the premise entails the hypothesis. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: so it that's also a good reason why it it or good that it ended as soon as it did\n\nHypothesis: It good that it ended quickly.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is saying exactly the same thing as the hypothesis, but in a less concise manner. Hence, this makes it clear that \"yes\", indeed, the premise does entail the hypothesis. ### yes"
+    },
+    {
+        "instruction": "Premise: Emissaries flew by balloon to nearby cities for reinforcements that freed Milan from the 14,000-strong Austrian garrison.\n\nHypothesis: Freeing Milan cost 500 Italian lives.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise mentions that 500 Italians died in battle, it is not mentioned anywhere if they were casualties of this particular event. Hence, we do not have enough information to determine whether freeing Milan cost 500 Italian lives or not. This leaves us with 'it is not possible to tell' as our answer option.\n \n \n\n */ ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: But what about you? \n\nHypothesis: But what happens to you after this? \n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise and hypothesis are the same sentence but with different punctuation. It is unclear what \"this\" refers to, as there was no context provided so it is not possible to tell whether this question could be answered by the given information. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: : The Iron Jaw and Adrin's Return\n\nHypothesis: Adrin never returned, nor the other.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The hypothesis states that Adrin never returned, which contradicts the premise as it mentions Adrin's return. Hence, the answer is no. ### no"
+    },
+    {
+        "instruction": "Premise: Have you anyone who can testify to that?\n\nHypothesis: Who didn't see you?\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise asks \"Have you anyone who can testify to that?\" which does not directly address the hypothesis, as it is more in line with asking if there are witnesses for something other than what happened. So the answer is “no”. ### no"
+    },
+    {
+        "instruction": "Premise: Just take a drive along the Sunset Strip and you'll know what inspired the reputation.\n\nHypothesis: You can't drive along the Sunset Strip anymore but you can walk it.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise seems to be speaking about the popularity of driving along Sunset Strip rather than whether it is possible or not. So, it does not entail that one cannot drive along Sunset Strip anymore but can walk instead. ### no"
+    },
+    {
+        "instruction": "Premise: Many agencies lack organizational cultures that promote high performance and accountability, which are critical to successful organizations.\n\nHypothesis: Many agencies don't have the organizational culture to promote high accountability for heir CEOs.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Within the premise, it is mentioned that lack of organizational culture promotes high performance and accountability. However, there isn't any mention about CEOs in particular or their job descriptions within the passage. Hence, we can only say that \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: i know and i want to see a credit card\n\nHypothesis: The credit card has a low APR.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not state that the APR is low and this information cannot be assumed. Therefore, it is not possible to tell whether or not the hypothesis provided in true. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: The story goes that Buddha's mother gave birth to him under a tree in a garden at Lumbini, unable to get back in time to the palace, some 20 km (12 miles) away.\n\nHypothesis: The Buddha was born under a fragrant, blossoming pear tree.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that Buddha's mother gave birth to him under a tree, but does not specify the type of tree. Therefore, we cannot determine whether it was a pear tree or otherwise from this piece of information alone. Hence, \"it is not possible to tell\" is chosen as the answer. ### it is not possible to tell"
+    },
+    {
+        "instruction": "Premise: you'll never get it it's it's uh was it Roxanne\n\nHypothesis: You're definitely going to get it, sooner than later\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is a series of contradictory statements, and the hypothesis contradicts itself. So it's not possible to tell whether the premise entails the hypothesis or not. ### no"
+    },
+    {
+        "instruction": "Premise: In response to a request from the Chairman and the Ranking Minority Member, Subcommittee on Readiness and Management Support, Senate Committee on Armed Services, GAO (1) assessed the impact of design and manufacturing knowledge on DOD program outcomes, (2) compared best practices to those used in DOD programs, and (3) analyzed current weapon system acquisition guidance for applicability of best practices to obtain better program outcomes.\n\nHypothesis: GAO assessed the impact of staffing issues on DOD outcomes.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise focuses on the impact of design and manufacturing knowledge on DOD program outcomes while the hypothesis talks about staffing issues. These two factors have nothing to do with each other, so it is not possible for one to entail or imply the other. The answer therefore is \"no\". ### no"
+    },
+    {
+        "instruction": "Premise: Vrenna was already moving to the next opponent but the Kal walked to the wounded man and killed him with a single powerful blow.\n\nHypothesis: Vrenna didn't intend on killing the man.\n\nDoes the premise entail the hypothesis?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not provide enough information to determine whether or not Vrenna intended on killing the man. At best, we can infer that he did not kill him since it was Kal who killed the wounded man with a single blow. So, the answer is \"it is not possible to tell\".\n''' ### it is not possible to tell"
+    }
+]

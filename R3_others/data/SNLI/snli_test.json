@@ -1,0 +1,627 @@
+[
+    {
+        "instruction": "If \"A dog with its mouth open is walking on a path on a garden which is next to a lake or a stream.\", does this mean that \"A dog walks outside near a stream.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The information provided in the passage is consistent with that of the statement, because it states a dog walks outside (near a path) near water (a stream or lake). Hence, \"yes\" would be the correct answer. ### yes"
+    },
+    {
+        "instruction": "If \"Women on tennis court standing in front of net holding a book.\", does this mean that \"One woman consults the rule book.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While one woman is looking at a paper, we can not determine whether she is consulting the rule book or just holding it for another person. So, the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Some workers cleaning a storefront.\", does this mean that \"People are working.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that some workers are cleaning a storefront. This implies that there is at least one worker, and therefore \"people\" are working in this context. Hence, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A group of African people sitting under a tree in the hay.\", does this mean that \"The people are from China.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The fact that the people are sitting under a tree in hay does not mean they are from China. Furthermore, it is inferred that these people must be African due to their skin color and clothing worn by some of them. So, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"In this picture, two children are opening presents.\", does this mean that \"Children are opening presents.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is specific to the given picture and states that \"two children are opening presents\". This supports the hypothesis, which makes a general statement that \"children\" - not just two of them - open gifts. Therefore, the answer is “yes”. ### yes"
+    },
+    {
+        "instruction": "If \"Four black men are sitting on a bench near a food cart run by a man with bystanders.\", does this mean that \"Men are sitting near a food cart\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes four black men sitting on a bench near a food cart run by another man. This is the literal meaning of \"Men are sitting near a food cart\". So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A woman with a microphone wearing a gray jacket speaking in front of an audience.\", does this mean that \"The people are watching a movie.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that a woman is speaking in front of an audience, not watching a movie. It does not mention any other people or what they are doing; it only refers to the speaker and her audience. Therefore, we cannot assume that the people are watching a movie based on this premise alone. ### no"
+    },
+    {
+        "instruction": "If \"A bunch of kids swing together in a large swing shaped like a basket.\", does this mean that \"Kids are at the playground\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise only tells us that kids are at a playground, but we cannot determine whether they are in the park or not. Hence, it is not possible to tell if the statement is true or false. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"two Arabic kids at a outside food market.\", does this mean that \"The kids are inside the school for detention.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence does not contain any information about where the kids are. Since the second statement is referring to a specific location \"inside\" of another entity, it would be false if we do not have definite proof that the kids are inside. Therefore, this question cannot be answered with certainty. ### no"
+    },
+    {
+        "instruction": "If \"Roofer going to get the rest of his tools after realizing the chainsaw is n't the right tool for the job.\", does this mean that \"Roofer going to get the rest of his tools after realizing the Stihl chainsaw isn't the right tool for the job.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first part of the statement says that a roofer is going to get his tools after realizing that he doesn't have the right tool for the job. The second half states, specifically, what kind of chainsaw was not appropriate for this specific task. From these two statements alone it is not possible to tell if there were other types of saws which might've been relevant in this context or whether any additional tools would be useful at all. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A dirt biker is riding through deep sand and dirt.\", does this mean that \"the man is in a coma\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage only states that a dirt biker is riding through deep sand and dirt, which does not imply that the man mentioned in the statement is in a coma. ### no"
+    },
+    {
+        "instruction": "If \"An asian man walking down the street.\", does this mean that \"There is a man sitting\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"There is a man sitting\" contradicts the fact that the Asian man in question was walking down the street, suggesting he would not have been sitting. So, the answer is no. ### no"
+    },
+    {
+        "instruction": "If \"A large stick filled with cotton candy to sell leans up against a wall.\", does this mean that \"There's cotton candy for sale.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The fact that the stick is filled with cotton candy and leaning against a wall indicates that it is for sale. So, the answer to this question should be \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A family is waiting around outside of a carousel.\", does this mean that \"The family is swimming in the hotel pool.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage states that the family is waiting around outside of a carousel and describes them as \"sitting on benches, standing at vending machines, or walking back and forth from one bench to another\". Such an image does not indicate any activity related to swimming in the hotel pool. So, it is clear that this statement cannot be inferred with certainty and we should answer 'No'. ### no"
+    },
+    {
+        "instruction": "If \"Three men are working construction on top of a building.\", does this mean that \"Three men are working construction at the bottom of a building.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise states that there are three men working on top of a building, it does not specify where the bottom of this construction site is. Similarly, while we can determine that these men are at the \"top\" and thus not at the bottom, it's possible they're in an area such as a basement or otherwise underground section of the site. Therefore, given only this information we cannot state definitively whether these men would be found at either location; hence our answer must be \"it is not possible to tell\". ### no"
+    },
+    {
+        "instruction": "If \"A man and woman with name tags on chat with others in a hotel lobby.\", does this mean that \"A man and woman do not know each other's name.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the man and woman are wearing name tags, which suggests that they know each other's names. So, this statement cannot be true because it is not possible to tell whether the two people in question do or don't know each other's names based on information provided by the context. ### no"
+    },
+    {
+        "instruction": "If \"Two people are sitting and reading books at a cookout.\", does this mean that \"The people are sitting indoors.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage is talking about a cookout, which means that the people are sitting outdoors. So, it is not possible to say whether they are indoors or not, and hence the answer is \"no\".\n''' ### no"
+    },
+    {
+        "instruction": "If \"A woman placing a star ornament on a Christmas tree.\", does this mean that \"A lady puts an ornament on a tree in December\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise and hypothesis are similar, there is not enough information to determine whether they refer to the same event. The question mentions a star ornament while in the other sentence it's an unspecified ornament; also in one case \"lady\" is used whereas in another term \"woman\" appears. Additionally, there have been no references to location or time period that would allow us to ascertain if both statements describe the same scenario. So we can't tell for sure whether these two sentences mean exactly the same thing which makes our answer “it is not possible to tell” ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"There are four girls with shorts on walking together.\", does this mean that \"There are no girls\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"There are four girls with shorts on walking together\" does not indicate that there are no other girls. This just describes the activity of some of them in a particular situation and is not contradicted by any other information provided within this passage, so the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"Two wet teenage girls walk around the pool area.\", does this mean that \"the girls are fifteen\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not mention the girls' ages. It simply states that they are teenagers, which could mean anything between 13 and 19 years old. So it is not possible to tell what their exact age might be. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A 5-person band is performing on a stage inside a tent.\", does this mean that \"A band performs a musical number on stage.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage is describing a 5-person band performing on stage inside a tent, which satisfies all the conditions of the hypothesis \"A band performs a musical number on stage.\". Hence, we can say that this statement contains the correct answer to our question and therefore select \"yes\" as an answer. ### yes"
+    },
+    {
+        "instruction": "If \"A group of women, clothed in full black robes, walking down a hallway during the day.\", does this mean that \"Women, clothed in full black robes, walking down a hallway during the day.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that a group of women, clothed in full black robes, are walking down the hallway during the day. The hypothesis makes no mention about whether it is one or more than one woman and also does not specify when this takes place (day or night). Hence, we can conclude that the statement mentioned in the premise would mean what is stated by the hypothesis. Therefore, answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A girl in black hat holding an african american baby.\", does this mean that \"A woman is folding clothes.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence does not mention anything about a woman or clothes being folded, so the second statement is false. ### no"
+    },
+    {
+        "instruction": "If \"A hiker relaxing on a clay hillside.\", does this mean that \"A man is sitting on a blanket while enjoying the view.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage states that a hiker is relaxing on the hillside. It does not specify whether he or she is sitting, standing, laying down, etc., so it cannot be confirmed what position they are in while enjoying their view of nature. Therefore, this statement contains an ambiguous answer to the question and we must select \"it is not possible to tell.\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A man walking down the walkway of a bunch of storefronts.\", does this mean that \"The man owns one of the stores.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premises does not provide enough context to determine whether the man owns one of the stores. Although he is walking down a walkway, it is unclear if that means he owns any of them or simply just happens to be traversing through them on his way somewhere else. Therefore, this cannot be determined from the provided text and so \"it is not possible to tell\" would be our answer choice in this situation. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A group of people, the majority of whom are male, are standing at the foot of a flight of stairs looking up.\", does this mean that \"The male is alone in the middle of the lake.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement is a clear contradiction with the premise. Therefore, it can be concluded that they do not imply each other. ### no"
+    },
+    {
+        "instruction": "If \"A young, brown-haired girl in a Hello Kitty shirt holding a bouquet of flowers wrapped in leopard print paper\", does this mean that \"A young girl is trying to sell flowers on the side of the road\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The provided image is ambiguous and does not provide enough information to determine whether a young girl is trying to sell flowers on the side of the road or not. Therefore, it is not possible to tell if this statement holds true. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A child raking leaves and learning a lesson in hard work.\", does this mean that \"The child must do this chore to earn an allowance.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "It is not clear whether the child was asked to do this chore or if he volunteered. The context does not mention anything about the child earning an allowance for doing his chores, so it cannot be inferred that this must have been a task assigned by someone else and thus being done in order to earn money from them. Therefore, \"it is not possible to tell\" is the correct answer because there isn't enough information provided within the premise itself. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A woman in a red suit is running in a field in front of a crowd.\", does this mean that \"A woman in a red suit is winning the race.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the premise provides an image of a woman running in front of a crowd, there is no information on who she is or what race that may be. Therefore, it is not possible to tell whether the statement \"A woman in a red suit is winning the race\" based on this sentence alone. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A little boy is playfully jumping off the side of a fountain.\", does this mean that \"A boy is playing near a fountain.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The second sentence states that a boy is playing near the fountain, while the first one elaborates on this by stating how he is playing (jumping off of it). So yes, we can infer from context 1 to 2. ### yes"
+    },
+    {
+        "instruction": "If \"Two older Hispanic women are making food.\", does this mean that \"The women are preparing for a party.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The fact that the women are preparing food does not necessarily mean they're doing so for a party. They could be making dinner, or cooking multiple meals ahead of time to freeze and eat later. The passage provides no evidence to support either side of this claim, which is why \"it is not possible to tell\" is our answer here. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A small dog jumps up to play with a larger dog.\", does this mean that \"A small dog is jumping and playing with a larger dog.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The two statements are essentially the same, with only minor variations in syntax. For example, both imply that a small dog jumps up to play and is jumping while playing with a larger companion. Therefore, this statement can be considered as an accurate reflection of the first one and thus the answer should be \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A man, a boy and a dog heading down to the ocean.\", does this mean that \"The boy is lost and alone\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage mentions that a man and a boy are headed to the ocean, with no mention of them being lost or alone. So this statement is incorrect as it cannot be derived from the given information.\n''' ### no"
+    },
+    {
+        "instruction": "If \"A referee raises the hand of a wrestler wearing green while a wrestler wearing blue looks on.\", does this mean that \"A wrestling match going on in the ring.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "A wrestling match is indeed going on in the ring, as evidenced by a referee raising the hand of one wrestler while another looks on. So the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"Two people in brown hats pull a yellow tube in a small pond surrounded by greenery.\", does this mean that \"A crowd of people are playing in the pond.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first statement illustrates that only two people are in the pond, not a \"crowd\". Besides this fact, there is no mention of any other objects being present and while they 'pull' something it does not indicate that they are playing. So the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"One boy and a girl dressed in snowsuits, jumped in air with hands raised in lots of snow.\", does this mean that \"kids play in the snow\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "In the given sentence, there are two children who are jumping in air while having their hands raised. They are also wearing snowsuits. This means that they must be playing around in snow and thus confirming the hypothesis \"kids play in the snow\". So, the answer is yes ### yes"
+    },
+    {
+        "instruction": "If \"A waitress in a black T-shirt and black shorts at Cafe Mambo serves a tray of beverages to a seated customer in a red tank top and black bandanna.\", does this mean that \"A group of individuals are walking past a coffee shop named cafe mambo\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While it is mentioned that Cafe Mambo serves a tray of beverages, the statement cannot be generalized to \"A group of individuals are walking past coffee shop named cafe mambo.\" Hence, the answer should be no. ### no"
+    },
+    {
+        "instruction": "If \"A football player wearing a number ten jersey is catching a football with both hands.\", does this mean that \"A football player is catching a football.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The original statement includes the additional information that he has a number ten jersey on, but this does not change its meaning. Both statements have identical meanings and therefore support one another. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A wedding party poses for pictures on a swing set.\", does this mean that \"a wedding party posing\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The question asks whether the wedding party is posing for pictures on a swing set. The passage states that \"A wedding party poses for pictures and takes photos\", which means they are posing, hence it does not contradict the statement in the question. So, the answer is yes. ### yes"
+    },
+    {
+        "instruction": "If \"Two people jump up and down on a cliff overlooking a valley.\", does this mean that \"Two people lay down on a cliff overlooking a forest.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The two statements do not have any common elements, so there is no way to determine whether they are equivalent or not. So the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A bride and groom having their pictures taken at the top of the stairs.\", does this mean that \"The man and woman just recently got divorced.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that a bride and groom are having their pictures taken at the top of some stairs. This would not support the hypothesis, which states that the man and woman just recently got divorced because getting one's picture taken is typically associated with marriage or engagement rather than divorce. So, the answer here is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"Identical looking factory workers are paying attention.\", does this mean that \"The factory workers are taking a brea.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "We can see that the premise mentions \"Identical looking factory workers\" and not just \"factory workers\", indicating a specific number of people. The context then goes on to mention how these identical-looking men are paying attention, which is contrary to what one would do while taking a break. So, the answer is 'no'. ### no"
+    },
+    {
+        "instruction": "If \"An adult and a child sitting on a police motorcycle.\", does this mean that \"The police officer sits with his son.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Since there is no information about the relationship between these two people, it is not possible to tell whether or not they are related. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Women standing around holding bouquets.\", does this mean that \"a woman sat and sniffed a bouquet\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence does not mention anything about women sitting and sniffing bouquets. Even if we assume that the woman standing is also holding a bouquet, it still cannot be said for sure whether she was sniffing at her own or another's. So, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"Little boy laying in a pile of leaves next to a skateboard.\", does this mean that \"the boy is jumping in the leaves\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not mention anything about the boy jumping in the leaves. So it is neither true nor false, and hence \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"two men dancing on a checkerboard in front of a crowd\", does this mean that \"Two people are in a swimming pool\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise 'two men dancing on a checkerboard in front of a crowd' does not contain information about people being in the swimming pool and hence, this statement cannot be inferred from that. So, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"An adult couple is talking with a younger girl, and they are all smiling.\", does this mean that \"adults are taking\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context states that an adult couple is talking to a young girl, and they're all smiling. This suggests that the adults are \"taking\" in what's being said by the child, which means paying attention to her words or taking interest in them. So, answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"Five snowmobile riders all wearing helmets and goggles line up in a snowy clearing in a forest in front of their snowmobiles; they are all wearing black snow pants and from left to right they are wearing a black coat, white coat, red coat, blue coat, and black coat.\", does this mean that \"The snowmobile riders are wearing the same color of gear.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage describes the snowmobiles riders all wearing black snow pants and from left to right they are wearing a black coat, white coat, red coat, blue coat, and black coat. The statement \"The snowmobile riders are wearing the same color of gear.\" is not true because there were two different colors specified (black and another color). ### no"
+    },
+    {
+        "instruction": "If \"An Angels baseball player puts his glove out to catch the ball.\", does this mean that \"A baseball player is catching a fly ball.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "A baseball player can use his glove to catch a ball in many situations, such as catching a fly ball or simply fielding the ground. Therefore, it is not possible to tell if \"A baseball player is catching a fly ball.\" from this information alone. Hence, we answer with \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"three young guys working in a dark room.\", does this mean that \"A cat is sleeping.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context provided does not provide any information about the cat. So, it is not possible to determine whether a cat is sleeping or not. Hence, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A woman in a black top with a shopping bag standing near the train tracks while others read.\", does this mean that \"A woman is wearing clothes\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"A woman is wearing clothes\" can be inferred from the context, as it states that a woman in a black top with a shopping bag was standing near train tracks. Hence, we can conclude that she must have been clothed for this to happen. Therefore, the answer should be \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A street at night with several parked cars.\", does this mean that \"Several cars are parked on the street at night.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"A street at night with several parked cars\" is pretty much the same as saying \"Several cars are parked on the street at night\". Therefore, we can determine that both statements mean the same thing. So, this answer should be yes ### yes"
+    },
+    {
+        "instruction": "If \"In a kitchen of a restaurant they are making preparing pizza dove.\", does this mean that \"they are making a special meal\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context is about a kitchen that prepares pizza. We cannot reach any conclusion whether this meal is special or not from the information provided in the premise, so it's \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A girl wears a fancy dress and a tiara.\", does this mean that \"A girl is dressing as a princess.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The girl could be dressing as a princess or even simply playing dress up. Without further information it is not possible to tell why the girl is wearing fancy clothes and a tiara. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"An elderly man and woman observe a wooden contraption with a tube.\", does this mean that \"An elderly couple observe a contraption\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage describes an elderly man and woman observing a wooden contraption with a tube, which is also known as \"a couple\". Hence the statement contains correct information about that particular couple. So the answer is 'yes'. ### yes"
+    },
+    {
+        "instruction": "If \"A construction worker drills a hole into the ground.\", does this mean that \"The construction worker is eating a sandwich on his break.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Both statements are independent of each other, and we can see that the worker is drilling a hole in one statement. Therefore, it is not possible to tell whether he's eating a sandwich or not from this sentence alone. ### no"
+    },
+    {
+        "instruction": "If \"Woman wearing a blue sweater while holding a large piece of brown paper material.\", does this mean that \"A woman is wearing a blue sweater.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that a woman wearing a blue sweater is holding some brown paper material, directly supporting the hypothesis. Therefore, we can safely say that the answer to \"A woman is wearing a blue sweater\" is yes. ### yes"
+    },
+    {
+        "instruction": "If \"A lady is lying in the snow making a snow angel.\", does this mean that \"A 22 year old girl in the snow.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the sentence \"A lady is lying in the snow making a snow angel\" mentions that someone (a woman) is lying in the snow, it does not specify whether or not she is 22 years old. Furthermore, there are no clues as to what this woman looks like and thus we cannot determine based on her appearance if she's a young girl or an adult. Thus, we can't say for certain either way and must report \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"This is an oriental chef preparing meats.\", does this mean that \"A person is pouring cereal into a bowl.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes an oriental chef preparing meats, whereas the hypothesis states that a person is pouring cereal into a bowl. The two statements are unrelated and do not provide any information about each other. Therefore, the answer is \"no\".\n \n</pre> ### no"
+    },
+    {
+        "instruction": "If \"A painter shows off his talent in front of a group of people\", does this mean that \"A painter destroys his own paintings in front of a crowd.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The question is whether the phrase \"A painter destroys his own paintings in front of a crowd.\" can be inferred from the premise. Our task here is to see if there exists any contradictions between these two statements, and we find that they are contradictory. In one case, he shows off his talent whereas in another case he does something destructive with it. Therefore, this hypothesis cannot be true given this premise; so the answer should be 'no'. ### no"
+    },
+    {
+        "instruction": "If \"A young women in a purple jacket sitting on a swing in a park.\", does this mean that \"The woman on the swing is a grandmother.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not mention the woman's age, hence it is impossible to determine her age. Thus, we cannot conclude that she is a grandmother ### no"
+    },
+    {
+        "instruction": "If \"A man in white and blue racing gear rides a stationary bike in front of a judge and an audience.\", does this mean that \"The man is riding a dirt bike.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The man is shown wearing racing gear, but it does not specify whether he was actually involved in a race or if the bike was being ridden for some other purpose. Hence, it is not possible to tell from this statement alone whether the man riding a dirt bike as mentioned in the hypothesis. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Next to two men in orange uniforms, a man in a gray sweatshirt places his arms over a wall and looks down.\", does this mean that \"A man is fixing his car while two men in jumpsuits are lazing about outside.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "It's not possible to say. The sentence is unclear about what the man in grey sweatshirt and two men in orange uniforms are doing, so it can't be concluded that \"A man is fixing his car while two men in jumpsuits are lazing about outside\". ### no"
+    },
+    {
+        "instruction": "If \"Three people in various jackets and shoulder bags work to lift up the security shutter on a storefront.\", does this mean that \"18 girls on their way to pro\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context given in this example is \"Three people in various jackets and shoulder bags work to lift up the security shutter on a storefront.\" The hypothesis, however, talks about 18 girls. This means that there are 15 more girls than what it mentioned in the premise. So we can conclude that these two statements cannot be connected with each other by a common theme or idea because they have not been said together at all. ### no"
+    },
+    {
+        "instruction": "If \"Three lean, numbered, greyhounds race along a track.\", does this mean that \"The greyhounds are eating dog food.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the greyhounds are racing, not eating. So \"no\" is the correct answer. ### no"
+    },
+    {
+        "instruction": "If \"There are two white dogs and one brown dog chasing a ball.\", does this mean that \"They are chasing a soccer ball.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The dogs are described as chasing a ball, which can be any type of round object. Therefore, it is not possible to tell whether the dogs are chasing a soccer ball or another type of sport ball such as basketball or cricket. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"These dogs appear to be howling, outdoors in the snow.\", does this mean that \"There are dogs outdoor in the snow.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise says that \"These dogs appear to be howling, outdoors in the snow\" and this part of information is saying \"There are dogs outdoor in the snow.\". So yes ### yes"
+    },
+    {
+        "instruction": "If \"A large dog is jumping in a fountain while a man in a black T-shirt and vest stands nearby.\", does this mean that \"An animal jumping\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "A dog is an animal and the statement \"An animal jumping\" can be inferred from this premise. Hence, the answer is yes. ### yes"
+    },
+    {
+        "instruction": "If \"A barista that is wearing a black shirt is making a cup of coffee using a big machine.\", does this mean that \"A barista is making coffee.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"A barista is making coffee\" is true based on the prior knowledge that a person working as a barista works in preparing and serving specialty drinks from an espresso machine. Therefore, it can be concluded that this hypothetical barista would likely prepare coffee for customers. So, the answer to this question is yes. ### yes"
+    },
+    {
+        "instruction": "If \"A man in black and yellow on a horse is talking to a person wearing red.\", does this mean that \"he is talking to a friend\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context provided doesn't give enough information to determine whether the people in question are friends or not. While they could be talking casually and thus be friends, it is also possible that their relationship is professional but cordial instead of familiar. So, \"it is not possible to tell\" would be the correct answer here. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A brunette woman wearing sunglasses is juggling two lemons in the air as she smiles.\", does this mean that \"A woman is juggling lemons.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first statement mentions a brunette woman wearing sunglasses juggling two lemons in the air as she smiles. The second sentence states \"A woman is juggling lemons\". From this information, we can infer that it does mean that there is a woman who is juggling lemons because all of these details are mentioned in the context. So, the answer is \"yes\" ### yes"
+    },
+    {
+        "instruction": "If \"A woman carrying large bags walks down the street.\", does this mean that \"A woman Carrying toys in bags and walks\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The original statement is about a woman who is carrying large bags walking down the street. The new sentence focuses on her carrying toys in bags, but does not mention what she was doing with those bags or where she was going. Therefore, it cannot be determined whether this means that \"A woman Carrying toys in bags and walks\", so the answer here would be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Two people with backpacks hike up a rocky dirt path next to a conifer tree.\", does this mean that \"The couple are having a brunch at their hotel.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence describes two people with backpacks hiking up a rocky dirt path, which does not have anything to do with couples and \"having brunch at their hotel.\". Therefore, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"Three tan men on the side of a mountain take a break from digging.\", does this mean that \"Three tan men on the side of a mountain\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The sentence \"Three tan men on the side of a mountain take a break from digging\" describes an event that is taking place. The words \"three\", \"tan\", and \"men\" appear in both this statement and the question, so it is reasonable to assume that they refer to the same group of three people. Therefore, yes, this does mean that there are three such men somewhere on a mountain. ### yes"
+    },
+    {
+        "instruction": "If \"A man is standing at a podium with a microphone in front of his face.\", does this mean that \"A cat hanging from a ledge.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "There is no connection between the two statements. The first statement describes a man standing at a podium with a microphone in front of his face, while the second part states that there is cat hanging from ledge. There are no common nouns or verbs to link these sentences together so they can't be true if one another is also true.\n` ### no"
+    },
+    {
+        "instruction": "If \"The view from a cracked train window of children walking to or from school along train tracks.\", does this mean that \"Children can be seen walking by through the train window.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"Children can be seen walking by through the train window\" describes what is going on in the picture, so it must be true. So, answer should be yes ### yes"
+    },
+    {
+        "instruction": "If \"A barefooted man wearing olive green shorts grilling hotdogs on a small propane grill while holding a blue plastic cup.\", does this mean that \"A man is cooking food.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The sentence \"A barefooted man wearing olive green shorts grilling hotdogs on a small propane grill while holding a blue plastic cup.\" contains the information that:\n- The person is male.\n- He is cooking food with his hands. \nHence, this confirms that he is indeed cooking food and not some other activity. Therefore, the answer to our question would be 'yes'. ### yes"
+    },
+    {
+        "instruction": "If \"A young, black male athlete in a red uniform is running a race on a road in the rain.\", does this mean that \"It is raining frogs.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise only tells us about one person running a race on the road, and does not tell us for sure that it is raining. So, we cannot conclude from this sentence alone whether \"It is raining frogs\" or not. Hence, the answer should be \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A bunch of kids in a classroom not doing any work.\", does this mean that \"Kids are goofing off in schoool.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise only says that the kids are not doing any work. This does not mean they are goofing off and may instead suggest they have already completed their homework or schoolwork for some other reason. Therefore, it is not possible to tell if the hypothesis provided in this example is true based on the information given by this particular statement alone. ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Kids playing in the ocean.\", does this mean that \"A child is building a sandcastle.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not mention anything about a child building a sandcastle. It simply states that kids are playing in the ocean, which is not sufficient to infer any specific activity by one particular kid within them. ### no"
+    },
+    {
+        "instruction": "If \"Crowd of people walk around on a brick paved shop lined street.\", does this mean that \"People walk outside on a sunny day.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "We can see from the fact that the people are walking around on a shop-lined street. We cannot determine whether it is sunny or not if we only know about the surroundings of these people. Thus, \"it is not possible to tell\" as an answer option would be correct here\n''' ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A casually-dressed man and woman are dancing together in front of a group of people with a brick wall in the background.\", does this mean that \"The causually-dressed man and woman are dancing in front of the group.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the couple are dancing in front of a group, and does not mention any other location or situation. Therefore, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A truck is decorated in American flags and the colors of the flag, three people are in the truck bed with one driving.\", does this mean that \"The truck got into an accident\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage only concerns the appearance of a truck, not its status as being in an accident or otherwise. So we cannot conclude that \"the truck got into an accident\" based on this statement alone, and so the answer is “no”. ### no"
+    },
+    {
+        "instruction": "If \"Two people enjoying a sunny day on the pier.\", does this mean that \"It is the middle of summer.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not provide any information about the date or time of year, so we cannot determine whether it is summer. Additionally, there are no clues in the photo as to what season it might be based on clothing worn by either person, foliage colouring, etc. The answer must therefore be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Skiers walking up the slope.\", does this mean that \"A man washing his car.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that there are skiers walking up the slope, while the hypothesis suggests that a man is washing his car. There is no relation between these two sentences and hence it cannot be said whether one entails another or not. ### no"
+    },
+    {
+        "instruction": "If \"Two young girls are sitting in the living room playing video games and drinking canned soft drinks.\", does this mean that \"Two girls are drinking from cans while playing video games.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"Two girls are drinking from cans while playing video games\" is true based on the information provided in the context. The first sentence states that two young girls are sitting in a living room and they are both playing video games, which means that at least one of them is holding a beverage can. Also, it mentions canned drinks so we know that there must be some type of container nearby for these beverages to come out of. Therefore, the answer is “yes” ### yes"
+    },
+    {
+        "instruction": "If \"A young woman waits under a sculpture in a park.\", does this mean that \"There is a person that is out of doors near some human-produced artwork.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise mentions that a woman is in the park near an artwork. Therefore, it can be inferred that there was someone out of doors near some human-produced art work. Hence, the answer to this question would be \"yes\".\n\"\" ### yes"
+    },
+    {
+        "instruction": "If \"A woman is eating noodles with chopsticks.\", does this mean that \"The woman knows how to use chopsticks.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Since the premise says that \"A woman is eating noodles with chopsticks\", it implies that she knows how to use them. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A man wearing a black shirt and blue jeans up in the air holding a plywood in each hand in front of a building that has a word \"stomp\".\", does this mean that \"A person is standing in front of a building holding aloft some plywood\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes a man who is standing in front of a building, holding two pieces of plywood. The hypothesis states that the person is in fact someone else, but this does not contradict the information provided. So \"yes\" would be an accurate answer to this question. ### yes"
+    },
+    {
+        "instruction": "If \"A boy in white shorts stands on a rusty tower.\", does this mean that \"The boy is wearing denim shorts.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The question makes no reference to denim shorts. The boy is simply wearing white shorts, which does not equal denim shorts (or any other colour of pants). ### no"
+    },
+    {
+        "instruction": "If \"A person in a green feathered costume is bending down in front of a woman with painted breasts.\", does this mean that \"Two adults participating at a festival.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The text does not give us enough information to determine whether the two individuals are adults. While it appears that they might be, we cannot conclude with certainty if this is so. So, the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A band is on stage performing.\", does this mean that \"The band is playing their famous song\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While it is mentioned that the band is performing, we do not know if they are playing one of their most famous songs or a completely different song. Hence, the answer to this question cannot be determined with certainty and therefore can only be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"An oriental woman is handling a tray of fruit and smiling while surrounded by an array of similar trays of fruit in a colorful display.\", does this mean that \"A woman is interacting with a fruit trays in the midst of a fruit display.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes a woman handling a tray of fruit within an array of similar trays, so the statement \"A woman is interacting with a fruit trays in the midst of a fruit display\" accurately summarizes this information. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"Three kids and two adults are sitting at a table making ice cream sundaes.\", does this mean that \"There are people buying sundaes\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The question asks whether \"There are people buying sundaes\", but the statement provided only mentions that they are making ice cream sundaes. Therefore, it is not possible to determine a relationship between this information and the original question being asked. ### no"
+    },
+    {
+        "instruction": "If \"Three pairs of women's underwear are hanging on a wire under an awning.\", does this mean that \"Some men's boxers are hanging on a wash line.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise clearly states that the item in question is women's underwear, but not men's boxers. So it cannot be concluded that some men's boxer are hanging on a wash line from this statement alone. The answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A little white baby is sitting in a suitcase.\", does this mean that \"The baby is wearing a bib.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While the baby is wearing a bib, it could be difficult to see in this picture. The premise does not provide enough information for us to determine whether or not the child's clothing meets our definition of \"bib\". So the correct answer is \"it is not possible to tell.\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A very ripped girl holds a large barbell on her shoulder in a gym.\", does this mean that \"The girl is working out for a competition in the gym.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "While it is mentioned that the girl was holding a barbell and in a gym, there is not enough information to determine whether she was working out for competition. Therefore, the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A skilled surfer grabbing the tip of his board while the rides a wave.\", does this mean that \"A surfer is riding a wave while grabbing the tip of his board with his hand\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The fact that the surfer is riding a wave and grabbing his board can be determined as true. However, it cannot be concluded whether he was doing both of these things at the same time or not. Hence, we choose \"it is not possible to tell\" ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Four children looking out a window.\", does this mean that \"Children read a book together.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"Four children looking out a window.\" does not mention anything about reading and since the premise is focused on what they are doing, it is likely that their activity has nothing to do with reading. Hence, we cannot conclude from this sentence alone that the answer is yes. ### no"
+    },
+    {
+        "instruction": "If \"Gray-blue bird with white markings on neck and wings in flight.\", does this mean that \"A duck floats in the pond\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise states that the bird is flying, which contradicts the hypothesis of a duck floating in water. The answer to this question would be \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A man and a toddler boy in a striped shirt walk past the trunks of trees that bend over a path in the forest.\", does this mean that \"The man and toddler are riding a merry-go-round at a carnival.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context of the premise is at a forest, and it mentions two individuals walking on a path comprising trunks of trees. The hypothesis states that these same two people are riding on a merry-go-round in an amusement park or carnival; there is no mention whatsoever of the backdrop being anything other than outside. Hence, we can safely say that this statement provides incorrect information to answer the question presented with respect to the given premise. ### no"
+    },
+    {
+        "instruction": "If \"People enjoying themselves at a party.\", does this mean that \"People are having fun at a party.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The second statement is a paraphrase of the first one. Both statements are saying that people are having fun at a party, so both statements have the same meaning and thus they can be considered as equivalent to each other. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A man lounging in a red sectional sofa in home store.\", does this mean that \"A man happily lounging\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise does not provide enough information to determine whether the man is \"happily lounging\" or not. While it is clear that he appears to be relaxed, his demeanor and facial expression are not detailed in the picture. So, the answer here would be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Three people in coats walking along a snow strewn trail on a mountain.\", does this mean that \"three people are walking outdoors\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes three people in coats walking along a snow strewn trail on a mountain. By definition, outdoors is the area outside of buildings and other structures so yes it does mean that \"three people are walking outdoors\". So, this answer choice is correct. ### yes"
+    },
+    {
+        "instruction": "If \"Four people sit outdoors at a white square table as a man in a striped pink shirt stands and talks to them.\", does this mean that \"There are four people swimming in the ocean.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence describes a setting in which four people are sitting at an outdoor table, and one of them is standing up. The second sentence does not accurately describe the situation described in the passage because it mentions that there are four people swimming in the ocean. Swimming would be impossible given their location as stated by the premise, so this statement cannot be true based on what we know about these two sentences together. So, \"no\" is correct answer for this question\n''' ### no"
+    },
+    {
+        "instruction": "If \"A man is performing a physical feat as people walk by and watch his performance.\", does this mean that \"A street performer is trying to make money.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The information provided in the premise is not sufficient to validate this hypothesis. Though we could infer that a street performer might be trying to make money, it is also possible that he/she may simply be entertaining himself/herself or others for free and without any intention of making money from his performance. Therefore, the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A man lying in a hospital bed.\", does this mean that \"The man is getting married soon.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The statement \"A man lying in a hospital bed\" does not provide enough information to indicate whether the man is getting married soon or not. Hence, it is impossible for us to determine if this claim holds true. ### no"
+    },
+    {
+        "instruction": "If \"A dog up to its belly in the snow attempts to move.\", does this mean that \"An animal outdoors.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "A dog is an animal, and since dogs cannot be indoors if they are up to their bellies in snow outdoors. So the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"Lady in tan coat walking down the street.\", does this mean that \"The coat in the frame costs more than $200.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "There is not enough information in the premise to determine whether or not a coat costs more than $200. The statement \"The coat in the frame costs more than $200\" does not follow from this sentence, because it's impossible to know if the woman shown has purchased her tan-colored coat for that price, or even what type of store she may have bought it at. So, the answer is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"A mother is trying to get her son to eat food at a restaurant.\", does this mean that \"The mother wants her sister to eat.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The first sentence states that the mother is trying to get her son to eat food, but there is no mention of her wanting someone else to do so. Thus, it cannot be said with certainty whether she wants anyone other than herself or her child to eat; therefore the answer would be \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A man climbing up a rocky cliff\", does this mean that \"The man is sitting in a bathtub.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "In the first sentence, \"a rocky cliff\" is specified. However, in the second statement, no such thing is mentioned. Therefore it can be said that both sentences are not related to each other and hence their truth value cannot be determined by this means alone ### no"
+    },
+    {
+        "instruction": "If \"Two woman beach volleyball players jump during a match.\", does this mean that \"Ladies playing a sport.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "Both statements describe women playing beach volleyball, so the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A man in a red sweater reading the newspaper.\", does this mean that \"The woman read a book.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage does not mention a woman, or what she was reading. So the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"a little girl is walking on hopscotch.\", does this mean that \"A girl cries because she can't find her rock.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The context suggests that the little girl is playing hopscotch, and nothing in the premise indicates why she would be crying. Thus it is likely that she has lost a rock from her game of hopscotch rather than being upset over the fact that she cannot find one to play with. So, \"no\" ### no"
+    },
+    {
+        "instruction": "If \"A man and two women sitting near a couch together.\", does this mean that \"The man has a beard.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The image we are given does not show the man's face, so it is impossible to tell whether he has a beard or not. Therefore, the answer here is \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Several Israeli men standing in the middle of a busy intersection.\", does this mean that \"A woman distracts traffic by being dressed in little clothes.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise is not related to the hypothesis at all. The fact that there are several men standing in an intersection does not imply anything about a woman distracting traffic by how she dresses. ### no"
+    },
+    {
+        "instruction": "If \"Three people in silver suits are riding bikes in the city.\", does this mean that \"People are using a method of transportation.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage talks about people using a method of transportation, which is biking. Therefore, the answer to \"Are people using a method of transportation?\" is yes for this context. ### yes"
+    },
+    {
+        "instruction": "If \"A guy is standing high up against the side of a building.\", does this mean that \"A man is standing near a building.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The definition of \"high up\" typically includes being near something, and the premise states that a man is standing high up against the side of a building. Therefore, it can be deduced from this information that he must also be standing near to the building as stated in his hypothesis. So, the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"A man in t-shirt and shorts kneels near a line of plastic crates containing duct tape, bags, and other supplies.\", does this mean that \"A naken man is sitting next to plastic crates.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The hypothesis states that a naked man is sitting next to plastic crates, but the picture provided shows a clothed man kneeling near some plastic crates. So, even though these two statements are not mutually exclusive (a nude person may be wearing shorts and/or a shirt), we can say with certainty that \"A naken man is sitting next to plastic crates\" does NOT mean \"A man in t-shirt and shorts kneels near a line of plastic crates containing duct tape, bags, and other supplies.\" ### no"
+    },
+    {
+        "instruction": "If \"A toddle and a baby are playing with leaves and dirt outside.\", does this mean that \"The children are inside.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise clearly mentions that the children are outside. So, it is not true to say that they are inside.\n''' ### no"
+    },
+    {
+        "instruction": "If \"A beautiful blond girl is outside enjoying her waffle cone.\", does this mean that \"A woman is eating ice cream at the park.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The hypothesis tells that a woman is eating ice cream at the park. The premise talks about a beautiful blond girl who is enjoying her waffle cone outside. This means there are two people involved in this picture, so we can't say whether the hypothesis and the premise match or not. So the answer would be \"it is not possible to tell\". ### it is not possible to tell"
+    },
+    {
+        "instruction": "If \"Woman in white cooking up some food.\", does this mean that \"A woman in black changes the oil in her car.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise describes only one woman in white. In order for the statement to be true, it would have to describe multiple women (one wearing black and another wearing white). So, the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"Two dogs wrestle in a field.\", does this mean that \"Two dogs took a nap on the living room floor.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The two statements do not have anything in common and are completely unrelated. While the first sentence implies that there is some activity taking place, it does not state what type of activities these dogs might be doing at any given time. So the answer is \"no\". ### no"
+    },
+    {
+        "instruction": "If \"A young girl in a swimsuit stands silently on a small beach.\", does this mean that \"A little girl stands on a beach.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The premise tells us that there is a young girl on the beach, and she appears to be standing silently. The hypothesis does not specify whether the little girl is wearing a swimsuit or if she's being quiet, but in general it can be considered true.\n \nSo the answer is \"yes\". ### yes"
+    },
+    {
+        "instruction": "If \"Two men are riding on a subway while reading books without wearing any pants.\", does this mean that \"Two people wearing no pants are on public transportation with books.\"?\n\nOPTIONS:\n- yes\n- it is not possible to tell\n- no",
+        "input": "",
+        "output": "The passage mentions that two men are riding on a subway while reading books without wearing any pants. The words in all caps represent the core elements of this premise, which is essentially an alternate way to state \"Two people (men) wearing no pants (without wearing any) are on public transportation with books.\" Therefore, we can say that the statement does mean what it claims. So, the answer is \"yes\". ### yes"
+    }
+]
