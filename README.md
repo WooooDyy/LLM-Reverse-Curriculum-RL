@@ -5,6 +5,7 @@
 <space for arxiv badge>
 Implementation of the "Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning" presented by Zhiheng Xi, Wenxiang Chen, Boyang Hong, et al.
 
+Paper Link: https://arxiv.org/abs/2402.05808
 ## 💡 Introduction
 
 ![](src/figures/main.png)
@@ -83,7 +84,16 @@ Dataset: MNLI
 
 If you find **R**$^3$ useful for your your research and applications, please cite using this BibTeX:
 
-TODO
+```
+@misc{xi2024training,
+      title={Training Large Language Models for Reasoning through Reverse Curriculum Reinforcement Learning}, 
+      author={Zhiheng Xi and Wenxiang Chen and Boyang Hong and Senjie Jin and Rui Zheng and Wei He and Yiwen Ding and Shichun Liu and Xin Guo and Junzhe Wang and Honglin Guo and Wei Shen and Xiaoran Fan and Yuhao Zhou and Shihan Dou and Xiao Wang and Xinbo Zhang and Peng Sun and Tao Gui and Qi Zhang and Xuanjing Huang},
+      year={2024},
+      eprint={2402.05808},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI}
+}
+```
 
 
 ## Contact
